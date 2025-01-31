@@ -4,31 +4,40 @@ import web_data
 class WebSearch:
     
     #class variables
-    words  = {""}
+    words  = ("")
       
     test  = web_data.WebData("https://radikahn.com")
     
     test.save_data()
     
     def word_set():
-        with open("user_search_words.txt", 'r') as file:
+        with open("Web Files/user_search_words.txt", 'r') as file:
             word_list = file.read()
             WebSearch.words = word_list.split(',')
 
             
         
     
-    def parse_data(words: set):
-        keywords = open("keywords.txt", "w")
+    def parse_data_phrase(words: list):
+        keywords = open("Web Files/keywords.txt", "w")
         
-        with open("./web_source.txt", "r") as file:
+        with open("Web Files/web_source.txt", "r") as file:
             content = file.read()
             for word in words:
                 if word in content:
                     print(word)
                     keywords.write(f"'{word}' \n")
+        keywords.close()
+        
+    # def parse_data_sentence(words: list):
+    #     keyphrases = open("Web Files/keyphrases.txt", "r")
+        
+    #     with open("Web Files/web_source.txt", "r") as file:
+    #         content = file.read()
+    #         for line in content:
+                
 
 obj = WebSearch()
     
 WebSearch.word_set()            
-WebSearch.parse_data(obj.words)
+WebSearch.parse_data_phrase(obj.words)

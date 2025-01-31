@@ -33,7 +33,7 @@ class WebData:
         soup_str = str(soup)
             
             
-        web_source = open("web_source.txt", "w")
+        web_source = open("Web Files/web_source.txt", "w")
         web_source.write(soup_str)
         web_source.close()
 
