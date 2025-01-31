@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Radikahn | Home</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="index,follow" name="robots"/>
+<meta content="GrapesJS Studio" name="generator"/>
+<meta content="Radikahn's personal portfolio and service website!" name="description">
+<meta content="Radikahn | Home" property="og:title">
+<meta content="Radikahn's personal portfolio and service website!" property="og:description">
+<meta content="assets/icon.png" property="og:image">
+<link href="assets/icon.png" rel="icon"/>
+<link href="./style.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body id="iau9">
+<div class="gjs-grid-row" id="i6po">
+<div class="gjs-grid-column" id="itjq">
+<div class="gjs-grid-row" id="iyd2">
+<div class="gjs-grid-column" id="iqjl">
+<a class="gjs-link-box" href="index.html" id="iucmr">
+<img alt="icon.png" id="ig5zch" src="assets/icon.png"/>
+</a></div>
+<div class="gjs-grid-column" id="iffs">
+<div class="gjs-grid-row" id="it00l">
+<div class="gjs-grid-column" id="irtfd">
+<a class="gjs-button" href="#i8w4i" id="ihm5xz">Contact</a>
+<a class="gjs-button" href="blog.html" id="irf6ky">Blog</a>
+<a class="gjs-button" href="https://www.flickr.com/photos/201140708@N05/" id="i2y2zb" target="_blank">Photos</a>
+</div>
+</div>
+</div>
+<div class="gjs-grid-column" id="id7x"><a class="gjs-button" href="mcserver.html" id="i1mew">MC Servers<br/></a></div>
+</div>
+</div>
+</div>
+<div class="gjs-grid-row" id="irz7b"><div class="gjs-grid-column" id="iycz3"><h1 class="gjs-heading" id="irjua">RS Home<br/></h1>
+<div> <h1 class="gjs=heading" style="color: #F9F9F9">Photo of the Day!</h1></div>
+<div><img alt="scgmeet-3.jpg" id="if2aj9" src="assets/scgmeet_3.jpg"/></div>
+<div class="gjs-grid-row" id="feature-section">
+<div class="gjs-grid-column" id="imymf">
+<div class="gjs-grid-row" id="ib541">
+<div class="gjs-grid-column" id="iz8m8"><h2 class="gjs-heading" id="ism014">Minecraft Servers!<br/></h2><div class="text-main-content" id="igrx8">Click the button bellow to view the links to all our available MC servers!<br/>
+</div>
+<a class="gjs-button" href="mcserver.html" id="i7wxva">MC Servers<br/></a>
+</div>
+<div class="gjs-grid-column" id="iepks"><img alt="2021-08-11_21.54.20.png" id="iqx9b" src="assets/2021_08_11_21.54.20.png"/></div>
+</div>
+</div>
+</div>
+<div class="gjs-grid-row" id="ioyxg">
+<div class="gjs-grid-column" id="i8w4i"><h4 class="gjs-heading gjs-text-blue" id="ihs4lb">About</h4>
+<h2 class="gjs-heading" id="iiacm">Contact / Socials / Porfolio<br/></h2>
+<div class="text-main-content" id="ia21sa">Hi, I'm a college student with a strong passion for cars, cameras, and computers. If you are interested in my projects and want to see more, my socials are linked below!<br/></div>
+<div class="gjs-grid-row" id="ixzh1">
+<div class="gjs-grid-column feature-item" id="ilpi3">
+<a href="https://www.instagram.com/radikahn/" target="_blank">
+<img alt="$RAPSH4Q.png" href="https://www.instagram.com/radikahn/" id="i0fxnh" src="assets/_rapsh4q.png"/>
+</a>
+<h3 class="gjs-heading" id="in9ef">
+<a href="https://www.instagram.com/radikahn/" target="_blank">Instagram</a>
+<br/>
+</h3>
+</div>
+<div class="gjs-grid-column feature-item" id="ic57kq"><a href="https://www.flickr.com/photos/201140708@N05/" target="_blank">
+<img alt="unnamed.png" id="itohp" src="assets/unnamed.png"/></a>
+<h3 class="gjs-heading" id="ica43q"><a href="https://www.flickr.com/photos/201140708@N05/" target="_blank">Flickr</a></h3>
+</div>
+<div class="gjs-grid-column feature-item" id="idv32l">
+<a href="https://github.com/Radikahn" target="_blank"><img alt="Octicons-mark-github.svg.png" href="https://github.com/Radikahn" id="icryl" src="assets/octicons_mark_github.svg.png"/></a>
+<h3 class="gjs-heading" href="https://github.com/Radikahn" id="ieu6p6">
+<a href="https://github.com/Radikahn" target="_blank">GitHub</a>
+</h3>
+</div>
+<div class="gjs-grid-row" id="iv3be5">
+<div class="gjs-grid-column" id="ilriti">
+<div class="gjs-text-blue" id="it6g1v">Copyright © Radikahn 2024<br/></div>
+</div>
+</div>
+</div></div></div></div></div></body>
+</html>
