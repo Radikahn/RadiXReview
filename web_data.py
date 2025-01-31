@@ -13,10 +13,7 @@ class WebData:
     def __init__(self, link: str):
         self.web_query = requests.get(link)
         
-        
-
     
-
     #check status code of website (success is 200)
     #source dump into local txt file
     def save_data(self):
