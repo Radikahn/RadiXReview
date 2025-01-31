@@ -5,7 +5,7 @@ class WebSearch:
     
     #class variables
     words  = ("")
-      
+    
     test  = web_data.WebData("https://radikahn.com")
     
     test.save_data()
@@ -27,17 +27,27 @@ class WebSearch:
                 if word in content:
                     print(word)
                     keywords.write(f"'{word}' \n")
+                    
         keywords.close()
         
-    # def parse_data_sentence(words: list):
-    #     keyphrases = open("Web Files/keyphrases.txt", "r")
+    def parse_data_sentence(words: list):
+        keyphrases = open("Web Files/keyphrases.txt", "w")
         
-    #     with open("Web Files/web_source.txt", "r") as file:
-    #         content = file.read()
-    #         for line in content:
+        with open("Web Files/web_source.txt", "r") as file:
+            for line in file:
+                for i in range(len(words)):
+                    if words[i] in line:
+                        keyphrases.write(line)
+                        
+        keyphrases.close()
+                    
+                    
                 
 
 obj = WebSearch()
     
 WebSearch.word_set()            
-WebSearch.parse_data_phrase(obj.words)
+# WebSearch.parse_data_phrase(obj.words)
+WebSearch.parse_data_sentence(obj.words)
+
+

@@ -1,0 +1,13 @@
+<title>Radikahn | Home</title>
+<meta content="Radikahn's personal portfolio and service website!" name="description">
+<meta content="Radikahn | Home" property="og:title">
+<meta content="Radikahn's personal portfolio and service website!" property="og:description">
+<a class="gjs-button" href="https://www.flickr.com/photos/201140708@N05/" id="i2y2zb" target="_blank">Photos</a>
+<div class="gjs-grid-column" id="id7x"><a class="gjs-button" href="mcserver.html" id="i1mew">MC Servers<br/></a></div>
+<div> <h1 class="gjs=heading" style="color: #F9F9F9">Photo of the Day!</h1></div>
+<div class="gjs-grid-column" id="iz8m8"><h2 class="gjs-heading" id="ism014">Minecraft Servers!<br/></h2><div class="text-main-content" id="igrx8">Click the button bellow to view the links to all our available MC servers!<br/>
+<a class="gjs-button" href="mcserver.html" id="i7wxva">MC Servers<br/></a>
+<a href="https://github.com/Radikahn" target="_blank"><img alt="Octicons-mark-github.svg.png" href="https://github.com/Radikahn" id="icryl" src="assets/octicons_mark_github.svg.png"/></a>
+<h3 class="gjs-heading" href="https://github.com/Radikahn" id="ieu6p6">
+<a href="https://github.com/Radikahn" target="_blank">GitHub</a>
+<div class="gjs-text-blue" id="it6g1v">Copyright © Radikahn 2024<br/></div>
