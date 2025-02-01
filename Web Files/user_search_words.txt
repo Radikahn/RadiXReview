@@ -1,1 +1,1 @@
-k65,keyboard,light not working
+broken,lights,not_working,corsair

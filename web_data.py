@@ -8,6 +8,7 @@ class WebData:
     #Class Variables
     web_query: requests
     link: str
+    APPLICATION = "Web Files/"
 
     #grab web information
     def __init__(self, link: str):
@@ -20,13 +21,17 @@ class WebData:
         
         #Check if link was valid
 
-        
-        soup = BeautifulSoup(self.web_query.content, 'html.parser')
-        soup.prettify()
-        soup_str = str(soup)
+        try:
+            soup = BeautifulSoup(self.web_query.content, 'html.parser')
+            soup.prettify()
+            soup_str = str(soup)
+                
+                
+            web_source = open(WebData.APPLICATION + "web_source.txt", "w")
+            web_source.write(soup_str)
+            web_source.close()
             
-            
-        web_source = open("Web Files/web_source.txt", "w")
-        web_source.write(soup_str)
-        web_source.close()
+        except Exception:
+            #we are passing in this case because not all links will be accessible
+            pass
 
