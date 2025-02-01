@@ -1,18 +1,32 @@
 from serpapi import GoogleSearch
+from dotenv import load_dotenv
+import os
 
 class LinkBuilder:
 
     search_term: str
 
+    load_dotenv()
 
+    api_key = os.getenv('API')
+   
+    
 
-    search = GoogleSearch({
+    params = GoogleSearch({
         "q": "coffee", 
-        "location": "Austin,Texas",
-        "api_key": "404d047e6067da14d3be3d7434b6a6bd381c82bbee15c457e0c4d7cfa517aeca"
+        "location": "San Jose,California",
+        "tbm": "xxx",
+        "output": "json",
+        "device": "desktop",
+        "api_key": api_key
     })
 
-    result = search.get_dict()
+    search = GoogleSearch(params)
+    results = search.get_dict()
+    organic_results = results["organic_results"]
+
+
+
 
     
 
