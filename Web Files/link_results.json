@@ -1,0 +1,263 @@
+[
+    {
+        "position": 1,
+        "title": "Coffee",
+        "link": "https://en.wikipedia.org/wiki/Coffee",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Coffee&ved=2ahUKEwjk8aqAw6GLAxVeGVkFHdq-KVMQFnoECD0QAQ",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Coffee",
+        "thumbnail": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de929840dab66d2bab58ff59a60bed1e98936eb5.jpeg",
+        "favicon": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de9298405d057fdebf773ca8eb715c96f99170c6.png",
+        "snippet": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, ...",
+        "snippet_highlighted_words": [
+            "Coffee"
+        ],
+        "sitelinks": {
+            "inline": [
+                {
+                    "title": "History",
+                    "link": "https://en.wikipedia.org/wiki/History_of_coffee"
+                },
+                {
+                    "title": "Coffee bean",
+                    "link": "https://en.wikipedia.org/wiki/Coffee_bean"
+                },
+                {
+                    "title": "Coffee preparation",
+                    "link": "https://en.wikipedia.org/wiki/Coffee_preparation"
+                },
+                {
+                    "title": "Coffee production",
+                    "link": "https://en.wikipedia.org/wiki/Coffee_production"
+                }
+            ]
+        },
+        "source": "Wikipedia"
+    },
+    {
+        "position": 2,
+        "title": "Chromatic Coffee, San Jos\u00e9, California, Coffee Roaster",
+        "link": "https://www.chromaticcoffee.com/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chromaticcoffee.com/&ved=2ahUKEwjk8aqAw6GLAxVeGVkFHdq-KVMQFnoECGsQAQ",
+        "displayed_link": "https://www.chromaticcoffee.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSQnzWFGNkxdqYwxJtQU3zIb39ObNiRn-mdHIKbvi5CaPJpOqqAOW&usqp=CAE&s",
+        "favicon": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de9298409697f93b3d8a0ac23771f5b705105da4.png",
+        "snippet": "Free Shipping Over $50. We roast to order! Roast and ship next day (usually within 24 hr). Roast days are Monday through Thursday.",
+        "snippet_highlighted_words": [
+            "Free Shipping Over $50"
+        ],
+        "sitelinks": {
+            "inline": [
+                {
+                    "title": "About",
+                    "link": "https://www.chromaticcoffee.com/about/"
+                },
+                {
+                    "title": "Coffee",
+                    "link": "https://www.chromaticcoffee.com/all-coffee/"
+                },
+                {
+                    "title": "Shop",
+                    "link": "https://www.chromaticcoffee.com/shop/"
+                },
+                {
+                    "title": "Gamut Espresso Medium Roast",
+                    "link": "https://www.chromaticcoffee.com/gamut-espresso-medium-roast/"
+                }
+            ]
+        },
+        "source": "Chromatic Coffee"
+    },
+    {
+        "position": 3,
+        "title": "Starbucks Coffee Company",
+        "link": "https://www.starbucks.com/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.starbucks.com/&ved=2ahUKEwjk8aqAw6GLAxVeGVkFHdq-KVMQFnoECDsQAQ",
+        "displayed_link": "https://www.starbucks.com",
+        "favicon": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de9298404ee401f8ebcd8f0860c8eb266ca1b2c0.png",
+        "snippet": "More than just great coffee. Explore the menu, sign up for Starbucks\u00ae Rewards, manage your gift card and more.",
+        "snippet_highlighted_words": [
+            "coffee"
+        ],
+        "source": "Starbucks Coffee"
+    },
+    {
+        "position": 4,
+        "title": "Fresh Roasted Daily | Verve Coffee Roasters",
+        "link": "https://www.vervecoffee.com/?srsltid=AfmBOoorx5hQ7jPnQ_ib_8qXg7mwmcwB4LGFI9pnPwc3wWvaDA_6HlTh",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vervecoffee.com/%3Fsrsltid%3DAfmBOoorx5hQ7jPnQ_ib_8qXg7mwmcwB4LGFI9pnPwc3wWvaDA_6HlTh&ved=2ahUKEwjk8aqAw6GLAxVeGVkFHdq-KVMQFnoECFwQAQ",
+        "displayed_link": "https://www.vervecoffee.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXbNIIvHXnVfLXDCws0E1QY501CON2IyXNIhdK99DXlxtLMXRoH1d&usqp=CAE&s",
+        "favicon": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de92984037515c19fdc3474caeb1c5d0ffe564c7.png",
+        "snippet": "Order Coffee Online from Verve Coffee Roasters. Hand-roasted daily, enjoy craft coffees with unique tasting & roasting profiles.",
+        "snippet_highlighted_words": [
+            "Order Coffee Online from Verve Coffee Roasters"
+        ],
+        "sitelinks": {
+            "inline": [
+                {
+                    "title": "Coffee",
+                    "link": "https://www.vervecoffee.com/collections/all-coffee"
+                },
+                {
+                    "title": "Locations",
+                    "link": "https://www.vervecoffee.com/pages/locations"
+                },
+                {
+                    "title": "Verve Coffee Roasters",
+                    "link": "https://instore.vervecoffee.com/"
+                },
+                {
+                    "title": "Craft Instant Coffee",
+                    "link": "https://www.vervecoffee.com/collections/instant-craft-coffee"
+                }
+            ]
+        },
+        "source": "Verve Coffee Roasters"
+    },
+    {
+        "position": 5,
+        "title": "My Fav Coffee Order\ud83d\udc99\ud83d\udc9b\u2764\ufe0f : r/dutchbros",
+        "link": "https://www.reddit.com/r/dutchbros/comments/1ieuqt7/my_fav_coffee_order/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/dutchbros/comments/1ieuqt7/my_fav_coffee_order/&ved=2ahUKEwjk8aqAw6GLAxVeGVkFHdq-KVMQFnoECGEQAQ",
+        "displayed_link": "9 comments \u00b7 2 hours ago",
+        "favicon": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de929840b0b63fe2f435a19ede95b6c07861853f.png",
+        "snippet": "Just wanted to share my all time favorite coffee order from Dutch! Iced breve with 2 pumps of coconut, sweet cream, and caramel drizzle!",
+        "snippet_highlighted_words": [
+            "coffee"
+        ],
+        "sitelinks": {
+            "list": [
+                {
+                    "title": "r/Coffee - Reddit",
+                    "link": "https://www.reddit.com/r/Coffee/",
+                    "date": "Mar 6, 2014"
+                },
+                {
+                    "title": "The deeper I dive into specialty coffee, the less I seem to enjoy ...",
+                    "link": "https://www.reddit.com/r/pourover/comments/1ieox8i/the_deeper_i_dive_into_specialty_coffee_the_less/",
+                    "date": "Jan 31, 2025"
+                },
+                {
+                    "title": "Coffee Haul! : r/nespresso - Reddit",
+                    "link": "https://www.reddit.com/r/nespresso/comments/1ieubdb/coffee_haul/",
+                    "date": "4 hours ago"
+                },
+                {
+                    "title": "How is unrested coffee supposed to taste like? : r/pourover",
+                    "link": "https://www.reddit.com/r/pourover/comments/1iet1yt/how_is_unrested_coffee_supposed_to_taste_like/",
+                    "date": "Jan 31, 2025"
+                }
+            ]
+        },
+        "source": "Reddit \u00b7 r/dutchbros"
+    },
+    {
+        "position": 6,
+        "title": "Coffee Magic | Great Whole Bean Roast Coffee | San ...",
+        "link": "https://www.getcoffeemagic.com/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.getcoffeemagic.com/&ved=2ahUKEwjk8aqAw6GLAxVeGVkFHdq-KVMQFnoECGAQAQ",
+        "displayed_link": "https://www.getcoffeemagic.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF2UO0vJu_GmBiXPsWz9o1Aq30pIrdaRFFQ98vKonaEHEg2z1w-J97&usqp=CAE&s",
+        "favicon": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de929840985627c099a1a173ffbe6d6e2c754275.png",
+        "date": "$10 to $11",
+        "snippet": "Coffee Magic has perfected distinct and flavorful coffees for over 40 years. We roast our coffees in small batches and ship direct to guarantee freshness.",
+        "snippet_highlighted_words": [
+            "Coffee Magic has perfected distinct and flavorful coffees for over 40 years"
+        ],
+        "rich_snippet": {
+            "top": {
+                "detected_extensions": {
+                    "price_from": 10,
+                    "price_to": 11,
+                    "currency": "$"
+                },
+                "extensions": [
+                    "$10 to $11"
+                ]
+            }
+        },
+        "source": "getcoffeemagic.com"
+    },
+    {
+        "position": 7,
+        "title": "Blue Bottle Coffee | Fresh Roasted Specialty Coffee",
+        "link": "https://bluebottlecoffee.com/?srsltid=AfmBOor3pezVwxMC1HtfeIt6wkabRjfpmHgWt__CPmRE4t4zkBtPdWoJ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bluebottlecoffee.com/%3Fsrsltid%3DAfmBOor3pezVwxMC1HtfeIt6wkabRjfpmHgWt__CPmRE4t4zkBtPdWoJ&ved=2ahUKEwjk8aqAw6GLAxVeGVkFHdq-KVMQFnoECGcQAQ",
+        "displayed_link": "https://bluebottlecoffee.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRfQRwMw-Bj24iUchTwoFUO3RSHsk4Y05C-7dufw97-jBfgz1fk5eu&usqp=CAE&s",
+        "favicon": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de929840fa5afd830870bcbe6f91ddfb2837bfa6.png",
+        "author": "Free 2\u20136 day delivery over $40",
+        "cited_by": "\u200e30-day returns",
+        "snippet": "Blue Bottle Coffee is a specialty coffee roaster with cafes in LA, SF, NYC, & Japan. Shop our freshly roasted specialty coffee online & in-store.",
+        "snippet_highlighted_words": [
+            "Blue Bottle Coffee is a specialty coffee roaster"
+        ],
+        "sitelinks": {
+            "inline": [
+                {
+                    "title": "Browse Our Cafes",
+                    "link": "https://bluebottlecoffee.com/cafes"
+                },
+                {
+                    "title": "Beans",
+                    "link": "https://bluebottlecoffee.com/us/eng/shop/coffee"
+                },
+                {
+                    "title": "Our Story",
+                    "link": "https://bluebottlecoffee.com/us/eng/our-story"
+                },
+                {
+                    "title": "Our Coffee",
+                    "link": "https://bluebottlecoffee.com/us/eng/our-coffee"
+                }
+            ]
+        },
+        "rich_snippet": {
+            "top": {
+                "detected_extensions": {
+                    "free_day_delivery_over": "2\u20136",
+                    "day_returns": 30
+                },
+                "extensions": [
+                    "Free 2\u20136 day delivery over $40",
+                    "30-day returns"
+                ]
+            }
+        },
+        "source": "Blue Bottle Coffee"
+    },
+    {
+        "position": 8,
+        "title": "Philz Coffee: Home",
+        "link": "https://philzcoffee.com/?srsltid=AfmBOop2295KS-J9dY6D0jYCCHaQFeuBQuA5himPvY0euqJq8XaShN0-",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://philzcoffee.com/%3Fsrsltid%3DAfmBOop2295KS-J9dY6D0jYCCHaQFeuBQuA5himPvY0euqJq8XaShN0-&ved=2ahUKEwjk8aqAw6GLAxVeGVkFHdq-KVMQFnoECDoQAQ",
+        "displayed_link": "https://philzcoffee.com",
+        "favicon": "https://serpapi.com/searches/679d93c4ac46dceb8c253ee8/images/e8089f2b968d34ecf6998f58de9298400cedc8c0453eb3b18910f61d9425ce21.png",
+        "snippet": "We specialize in customized blends with coffee shops in California and Chicago, IL Buy coffee online or find your nearest Philz location.",
+        "snippet_highlighted_words": [
+            "coffee",
+            "coffee"
+        ],
+        "sitelinks": {
+            "inline": [
+                {
+                    "title": "Locations",
+                    "link": "https://philzcoffee.com/locations"
+                },
+                {
+                    "title": "Coffee",
+                    "link": "https://philzcoffee.com/t/shop/coffee"
+                },
+                {
+                    "title": "Philz Coffee",
+                    "link": "https://privacy.philzcoffee.com/"
+                },
+                {
+                    "title": "Shop",
+                    "link": "https://philzcoffee.com/t/shop"
+                }
+            ]
+        },
+        "source": "Philz Coffee"
+    }
+]
