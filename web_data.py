@@ -19,14 +19,7 @@ class WebData:
     def save_data(self):
         
         #Check if link was valid
-        f = io.StringIO()
-        with redirect_stdout(f):  
-            print(self.web_query)
-        
-        output = f.getvalue().strip()
-        
-        if output != 200:
-            return Exception("The Web Address Is Not Valid")
+
         
         soup = BeautifulSoup(self.web_query.content, 'html.parser')
         soup.prettify()

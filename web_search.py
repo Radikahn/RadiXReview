@@ -6,7 +6,7 @@ class WebSearch:
     #class variables
     words  = ("")
     
-    test  = web_data.WebData("https://radikahn.com")
+    test  = web_data.WebData("https://www.reddit.com/r/Corsair/comments/5fzsgt/psa_if_your_corsair_keyboard_isnt_working_but/")
     
     test.save_data()
     
@@ -47,7 +47,7 @@ class WebSearch:
 obj = WebSearch()
     
 WebSearch.word_set()            
-# WebSearch.parse_data_phrase(obj.words)
+WebSearch.parse_data_phrase(obj.words)
 WebSearch.parse_data_sentence(obj.words)
 
 
